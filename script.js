@@ -151,11 +151,11 @@ const $$ = (sel, ctx = document) => [...ctx.querySelectorAll(sel)];
   if (!el) return;
 
   const phrases = [
-    'clean web experiences.',
-    'efficient algorithms.',
-    'intuitive interfaces.',
-    'solutions from scratch.',
-    'the future, line by line.',
+    'responsive web experiences.',
+    'DSA-driven solutions.',
+    'projects that solve problems.',
+    'clean and scalable code.',
+    'a stronger future, one project at a time.',
   ];
 
   let phraseIdx = 0;
