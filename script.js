@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════
-   AADESH GANGWAL PORTFOLIO — SCRIPT.JS
+   KUNAL KHARAT PORTFOLIO — SCRIPT.JS
    Vanilla JavaScript — No frameworks, no libraries.
 ═══════════════════════════════════════════════════════════════ */
 
@@ -592,7 +592,7 @@ const $$ = (sel, ctx = document) => [...ctx.querySelectorAll(sel)];
 
 /* ─── INIT LOG ────────────────────────────────────────────────── */
 console.log(
-  '%c AG Portfolio %c v1.0 — Built with ❤️ & Vanilla JS ',
+  '%c KK Portfolio %c v1.0 — Built with ❤️ & Vanilla JS ',
   'background: linear-gradient(135deg, #00d4ff, #a855f7); color:#fff; font-weight:700; padding:4px 8px; border-radius:4px 0 0 4px;',
   'background:#111; color:#a0a0b8; padding:4px 8px; border-radius:0 4px 4px 0;'
 );
